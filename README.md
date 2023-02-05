@@ -1,4 +1,8 @@
-# new-portfolio
+# Portfolioya göz atmak için tıklayın 
+
+*Click the link to browse the portfolio*
+
+## https://bk-vueportfolio.netlify.app/
 
 ## Project setup
 ```
